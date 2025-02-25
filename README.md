@@ -1,4 +1,4 @@
-# Jiang-ry-Coal-Mine-Risk-Prediction
+# Coal-Mine-Risk-Prediction
 ## 项目目标  
 基于机器学习技术实现煤矿安全风险预警，降低煤矿事故发生率  
 
